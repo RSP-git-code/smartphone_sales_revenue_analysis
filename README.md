@@ -49,4 +49,5 @@ To run this project, you need the following Python libraries:
 You can install the required libraries using:
 
 ```bash
-pip install pandas matplotlib
+pip install pandas as pd
+pip install matplotlib.pyplot  as plt
